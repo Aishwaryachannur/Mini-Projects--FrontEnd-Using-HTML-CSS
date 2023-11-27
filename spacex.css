@@ -1,0 +1,138 @@
+nav {
+  width: 100%;
+  height: 10%;
+  /* background-color: blue; */
+  align-items: center;
+  display: flex;
+  position: absolute;
+
+}
+
+.nv {
+  width: 120px;
+  height: 120px;
+  color: aliceblue;
+  position: absolute;
+  padding-left: 5px;
+
+}
+
+.list {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+  color: aliceblue;
+  padding-left: 200px;
+}
+
+.icon {
+  display: flex;
+  padding nav-right: 700px;
+  color: aliceblue;
+
+
+}
+
+.first {
+  background: url("https://www.spacex.com/static/images/locations/vandenberg.jpg");
+  height: 500px;
+  width: 100%;
+  padding-top: 500px;
+
+  color: beige;
+  background: cover;
+  margin-left: 30px;
+  padding-left: 100px;
+  margin-left: 0%;
+
+
+}
+
+.butn {
+  border: 15px;
+  border-color: white;
+  width: 160px;
+  height: 70px;
+  position: absolute;
+  background: fixed;
+  color: aliceblue;
+  border-radius: 200px;
+  border: 50px;
+}
+
+.second {
+  background: url("https://pragativadi.com/wp-content/uploads/2021/02/SpaceX-Tesmanian_1600x.jpg");
+  height: 280px;
+  width: 100%;
+  margin-right: 0px;
+  padding-top: 10px;
+  color: antiquewhite;
+  padding-left: 100px;
+  padding-top: 620px;
+}
+
+.btn {
+  /* border-radius: 2px;  */
+  /* border: 300px;
+  border-color: aliceblue;
+  border-width: 2px;
+  width: 150px;
+  height: 100px;
+  padding-left: 200px;
+  position: absolute;
+  text-align: center; */
+  border: 15px;
+  border-color: white;
+  width: 160px;
+  height: 70px;
+  position: absolute;
+  background: fixed;
+  color: aliceblue;
+  border-radius: 200px;
+  border: 50px;
+  text-transform: capitalize;
+
+}
+
+.last {
+  background: url("https://www.dhl.com/content/dam/dhl/global/delivered/images/smart-grid-press-1375x504/delivered-issue-05-2020-the-spacex-and-tesla-are-flying-high-1.jpg");
+  height: 550px;
+  width: 100%;
+  margin-right: 0px;
+  padding-top:200px;
+  color: antiquewhite;
+  /* margin-top: 1px; */
+  padding-left: 70px;
+  color: aliceblue;
+
+
+
+}
+
+#lst {
+  border: 100px solid white;
+  border-radius: 200px;
+  border-color: aliceblue;
+  width: 200px;
+  height: 100px;
+  border-style: none;
+  position: absolute;
+  background: fixed;
+  color: aliceblue;
+  
+  
+
+}
+
+#blck {
+  width: 100%;
+  
+  height: 70px;
+  background-color: black;
+  color: aliceblue;
+  gap: 100px;
+  padding-left: 500px;
+  align-items: center;
+  padding-top: :content;
+  display: flex;
+}
