@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+  
+}
+
+#navbar {
+  width: 100%;
+  height: 80px;
+  /* border: 2px solid; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 220px;
+  box-shadow: 0 2px 5px 2px rgb(190, 189, 189);
+}
+ul {
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  text-transform: capitalize;
+}
+h3{
+  font-size: 30px;
+}
+li {
+  /* width: 100px; */
+}
+li:hover {
+  background-color: green;
+  color: white;
+  /* padding: 5px; */
+}
+.left {
+  display: flex;
+  gap: 20px;
+}
+#icon {
+  cursor: pointer;
+  /* border: 1px solid; */
+  padding: 8px;
+  border-radius: 100%;
+  background-color: rgb(230, 230, 230);
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+.logo i {
+  color: green;
+  font-size: 25px;
+}
+.meet {
+  width: 100%;
+  height: 600px;
+  display: flex;
+
+  /* background-color: red; */
+}
+.one {
+  text-transform: capitalize;
+  width: 100%;
+  height: 670px;
+  padding-top: 200px;
+  padding-left: 100px;
+  padding-left: 200px;
+ 
+  /* background-color: green; */
+}
+.two {
+  width:100%;
+  height: 600px;
+  display: flex;
+  /* padding-left: 0%; */
+/* margin-top:10px; */
+background: url("https://kauveryhospital.com/blog/wp-content/uploads/2021/04/pizza-5179939_960_720.jpg");
+ 
+}
+
+.one h2 {
+  color: green;
+}
+.one h1 {
+  font-size: 90px;
+}
+.one button {
+  margin-top: 20px;
+  color: white;
+  background-color: black;
+  border: none;
+  width: 170px;
+  height: 40px;
+}
