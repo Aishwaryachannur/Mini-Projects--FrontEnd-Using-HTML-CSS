@@ -1,0 +1,115 @@
+.port {
+  background: url("me.png");
+  width: 100%;
+  height:100vh;
+  position: absolute;
+  background-size: cover;
+  background-position: center;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+nav {
+  display: flex;
+}
+
+#sml {
+  width: 400px;
+  height: 400px;
+border-radius: 2px;
+  margin-left: 440px;
+  margin-top:60px;
+  /* border-radius: 100%; */
+  border-color: aliceblue;
+
+
+}
+.imogi{
+  color: white;
+  
+  font-size: 40px;
+  padding-left: 30px;
+  gap: 30px;
+  padding-top: 30px;
+  display: flex;
+}
+
+#one button {
+  margin-top: 0px;
+  background: transparent;
+  color: white;
+  
+border-color: aliceblue;
+  border-radius: 8px;
+  width: 100px;
+  height: 35px;
+}
+#one{
+  display: flex;
+  margin-left:0px;
+  padding-left: 800px;
+  margin-top: 30px;
+  gap: 10px;
+  }
+
+.ti h1 {
+  color: white;
+  margin-top: 50px;
+  margin-left: 30px;
+  font-size: 70px;
+  font-weight: 700;
+}
+
+.ti h2 {
+  color: white;
+  /* margin-left: 10px; */
+
+  margin-left: 10px;
+ 
+  margin-top: 100px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 200;
+  font-size: 30px;
+  font-weight: lighter;
+}
+button{
+  border-radius: 10px;
+  background:transparent;
+  color: aliceblue;
+  width: 150px;
+  border-color: aliceblue;
+  font-size: 15px;
+  height: 40px;
+  /* padding-left: 10px; */
+  margin-left: 50px;
+  margin-top: 18px;
+}
+
+
+#two {
+  margin-left: 90px;
+  width: 100px;
+  margin-top: 30px;
+  height: 35px;
+  border-radius: 8px;
+   background: transparent;
+  color: white;
+  border-color: aliceblue;
+}
+
+.bord {
+  border: 1px solid white;
+  width: 1300px;
+  margin-top: 50px;
+  height: 500px;
+  margin-left: 100px;
+  display: flex;
+  /* padding-left: 100px; */
+}
+
+
+
+
